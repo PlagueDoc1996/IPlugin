@@ -1,0 +1,4 @@
+interface IPlugin
+{
+    fun Apply()
+}
